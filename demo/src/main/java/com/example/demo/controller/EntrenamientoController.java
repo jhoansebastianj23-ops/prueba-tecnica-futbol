@@ -2,6 +2,7 @@ package com.example.demo.controller;
 
 import com.example.demo.model.Jugador;
 import com.example.demo.service.EntrenamientoService;
+
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
